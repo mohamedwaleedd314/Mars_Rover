@@ -37,10 +37,10 @@ Ensure you have **Node.js** installed, then run:
 npm install
 ```
 
-### 2️⃣ Run the Test Script
+### 2️⃣ Run the Tests 
 Execute the following command to see the rover in action:
 ```sh
-node index.js
+node unit_test.js 
 ```
 
 ### 3️⃣ Example Usage
