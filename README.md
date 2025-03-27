@@ -1,4 +1,4 @@
-![Mars_Rover](Mars_Rover..webp)
+![Mars_Rover](Mars_Rover.png)
 
 # ✨ **Mars Rover Navigation System** ✨
 
